@@ -28,5 +28,4 @@ zero for their health the game will be over.
 <h3>Resources</h3>
 <a href="https://www.python.org/downloads/"> Python Download</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_GikMdhAhv0" frameboarder="0"allowfullscreen>
-<i/frame>
+<a href="https://youtu.be/_GikMdhAhv0"> How to Download Python</a>
