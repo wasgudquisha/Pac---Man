@@ -23,4 +23,4 @@ zero for their health the game will be over.
 <img src="https://github.com/wasgudquisha/Pac---Man/blob/master/portfolio/images/start.jpg" width="200px">
 
 <h3>Resources</h3>
-<a href="https://www.python.org/downloads/"> python Download</a>
+<a href="https://www.python.org/downloads/"> Python Download</a>
