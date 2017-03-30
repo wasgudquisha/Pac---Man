@@ -19,8 +19,11 @@ down, left, and right to move and l to shoot for spooky. If one player reach
 
 zero for their health the game will be over. 
 </p>
+
 <h3> Screenshots</h3>
 <img src="https://github.com/wasgudquisha/Pac---Man/blob/master/portfolio/images/start.jpg" width="200px">
+<img src="https://github.com/wasgudquisha/Pac---Man/blob/master/portfolio/pacgame.png" width="200px">
+<img src="https://github.com/wasgudquisha/Pac---Man/blob/master/portfolio/pacover.png" width="200px">
 
 <h3>Resources</h3>
 <a href="https://www.python.org/downloads/"> Python Download</a>
